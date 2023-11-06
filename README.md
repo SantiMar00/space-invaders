@@ -6,3 +6,5 @@
 Space Invaders game developed in Eclipse IDE with Java + Swing.
 
 To play, run the Test.java file in src/test/Test.java
+
+You can also download the .exe file in the releases section.
